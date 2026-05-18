@@ -11,7 +11,7 @@
   then replace the src below with ./assets/cover-banner.jpg and add width="100%".
 -->
 <div align="center">
-  <img src="./assets/cover.jpg" height="320" alt="Xanderfuity cover" />
+  <img src="./assets/cover.jpg" width="100%" alt="Xanderfuity cover" />
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
